@@ -1,0 +1,4 @@
+1- Incie usando o comando "npm init"
+2- Instale: selenium-webdriver, chromedriver e dotenv com o "npm install"
+3- Coloque seu email e senha referente ao GitHub no arquivo .env
+4- Execute o arquivo executa.bat
