@@ -1,9 +1,9 @@
 # Teste De Software Automatizado
 
-Teste de Software Automatizado criado com Node.js
-Utilizando selenium-webdriver/chrome, chromedriver, selenium-webdriver e dotenv
-Com a função de testar o acesso de usuário no GitHub de forma altomatizada
+<p>Teste de Software Automatizado criado com Node.js</p>
+<p>Utilizando selenium-webdriver/chrome, chromedriver, selenium-webdriver e dotenv</p>
+<p>Com a função de testar o acesso de usuário no <b>GitHub</b> de forma altomatizada</p>
+<br>
+<p>Para executar o codigo crie um arquivo <b>.env</b> com as variáveis SENHA e EMAIL</p>
 
-Para executar o codigo crie um arquivo .env com as variáveis SENHA e EMAIL
-
-Em seguida execute o arquivo executa.bat
+<p>Em seguida execute o arquivo executa.bat</p>
